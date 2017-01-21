@@ -1,0 +1,81 @@
+
+body{
+	margin-top: 70px;
+	background-color: #ddd;
+	font-family: "Helvetica Neue";
+}
+
+h1{
+	margin-bottom: 30px;
+	font-weight: bold;
+}
+.navbar-inverse{
+	background-color:#560401
+
+
+
+
+;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+.jumbotron{
+	background-color:rgba(71,6,1,1);
+
+
+
+;
+	color: white;
+}
+
+
+
+button{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 26px;
+}
+
+footer{
+	background-color: #560401;
+	height: 120px;
+}
+
+footer img{
+	width: 50px;
+
+}
+
+ul {
+	list-style: none;
+	padding-top: 10px;
+	text-align: center !important;
+
+
+}
+
+ul li {
+	float: left;
+	margin-right: 25px;
+	overflow: none;
+}
+
+
+
+footer p {
+	padding-top:60px;
+	color: white;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: #560401;
+	font-weight: bold;
+
+}
+
+
